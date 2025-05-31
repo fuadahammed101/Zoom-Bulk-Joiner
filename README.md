@@ -50,9 +50,9 @@ pip install selenium
 4. Create a `names.txt` file with one name per line, like:
 
 ```
-John Doe
-Jane Smith
-Test Bot 1
+Fuad
+Wasif
+Emon
 ```
 
 ---
