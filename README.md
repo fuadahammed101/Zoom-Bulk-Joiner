@@ -1,5 +1,5 @@
 
-# 🔁 Zoom Bulk Joiner (For Fun & Educational Use Only)
+# 🔁 Zoom Bulk Joiner (For Educational Use Only)
 
 This Python script automates the process of **joining a Zoom meeting with multiple attendees using different display names**, primarily using **Selenium WebDriver**.
 
